@@ -2,7 +2,7 @@
  * AVR_LED_8_Blinking.c
  *
  * Created: 23-Oct-17 7:22:30 AM
- * Author : user-3
+ * Author : Hisham
  */ 
 
 #define F_CPU 16000000UL
